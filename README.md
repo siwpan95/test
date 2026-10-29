@@ -1,3 +1,8 @@
+> 📦 **已归档（Archived — 仅作参考）**
+> 本仓库已收入归档仓 **dev-toolkit**（代码与完整 git 历史一并迁入，原仓冻结不再开发）。
+> 历史分支见归档仓的 `archive/test` 分支；活跃维护请前往 **dev-toolkit**。
+> _This repo is archived into dev-toolkit; development continues there. Do not commit here._
+
 # test（原型人格洞察 · 每日一测）
 
 基于荣格八功能与 45 种经典人物原型的每日人格测试网页（HTML 问答应用）。
